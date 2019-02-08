@@ -1,64 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Holidays>
-	<Holiday1>
+	<Holiday>
 		<Name>New Year</Name>
 		<Date>01/01/2019</Date>
-	</Holiday1>
-	<Holiday2>
+	</Holiday>
+	<Holiday>
 		<Name>Sankranti</Name>
 		<Date>01/15/2019</Date>
-	</Holiday2>
-	<Holiday3>
+	</Holiday>
+	<Holiday>
 		<Name>Republic Day</Name>
 		<Date>01/26/2019</Date>
-	</Holiday3>
-	<Holiday4>
+	</Holiday>
+	<Holiday>
 		<Name>Maha Shivratri</Name>
 		<Date>03/04/2019</Date>
-	</Holiday4>
-	<Holiday5>
+	</Holiday>
+	<Holiday>
 		<Name>Good Friday</Name>
 		<Date>04/19/2019</Date>
-	</Holiday5>
-	<Holiday6>
+	</Holiday>
+	<Holiday>
 		<Name>May Day</Name>
 		<Date>05/01/2019</Date>
-	</Holiday6>
-	<Holiday7>
+	</Holiday>
+	<Holiday>
 		<Name>Idul Fitr</Name>
 		<Date>06/05/2019</Date>
-	</Holiday7>
-	<Holiday8>
+	</Holiday>
+	<Holiday>
 		<Name>Bakrid</Name>
 		<Date>08/12/2019</Date>
-	</Holiday8>
-	<Holiday9>
+	</Holiday>
+	<Holiday>
 		<Name>Independence Day</Name>
 		<Date>08/15/2019</Date>
-	</Holiday9>
-	<Holiday10>
+	</Holiday>
+	<Holiday>
 		<Name>Ganesh Chaturthi</Name>
 		<Date>09/02/2019</Date>
-	</Holiday10>
-	<Holiday11>
+	</Holiday>
+	<Holiday>
 		<Name>Gandhi Jayanthi</Name>
 		<Date>10/02/2019</Date>
-	</Holiday11>
-	<Holiday12>
+	</Holiday>
+	<Holiday>
 		<Name>Dussehra</Name>
 		<Date>10/08/2019</Date>
-	</Holiday12>
-	<Holiday13>
+	</Holiday>
+	<Holiday>
 		<Name>Diwali</Name>
 		<Date>10/29/2019</Date>
-	</Holiday13>
-	<Holiday14>
+	</Holiday>
+	<Holiday>
 		<Name>Kannada Rajyotsava</Name>
 		<Date>11/01/2019</Date>
-	</Holiday14>
-	<Holiday15>
+	</Holiday>
+	<Holiday>
 		<Name>Christmas</Name>
 		<Date>12/25/2019</Date>
-	</Holiday15>
+	</Holiday>
 
 </Holidays>
